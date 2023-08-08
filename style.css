@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(225, 183, 190);
+}
+a{
+    font-size: 21px;
+    color: black;
+}
+a:hover{
+    color: bisque;
+}
